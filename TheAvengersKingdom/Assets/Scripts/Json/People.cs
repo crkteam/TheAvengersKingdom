@@ -9,6 +9,6 @@ namespace Assets.Scripts.Json
     {
         public String Name { get; set;}
         public int Id { get; set; }
-        public String Habit { get; set; }
+        public List<string> Habit = new List<string>();
     }
 }

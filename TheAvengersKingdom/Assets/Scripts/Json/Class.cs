@@ -7,6 +7,6 @@ namespace Assets.Scripts.Json
 {
     class Class
     {
-        
+        public List<People> People = new List<People>(); 
     }
 }
