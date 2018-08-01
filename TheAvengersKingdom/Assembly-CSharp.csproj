@@ -59,6 +59,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Json\absCharacterJson.cs" />
+    <Compile Include="Assets\Scripts\Json\BaseJson.cs" />
+    <Compile Include="Assets\Scripts\Json\Character.cs" />
+    <Compile Include="Assets\Scripts\Json\CharacterJson.cs" />
     <Compile Include="Assets\Scripts\Json\Class.cs" />
     <Compile Include="Assets\Scripts\Json\Man.cs" />
     <Compile Include="Assets\Scripts\Json\People.cs" />
