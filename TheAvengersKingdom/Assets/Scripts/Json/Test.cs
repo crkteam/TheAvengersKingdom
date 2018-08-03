@@ -28,6 +28,6 @@ public class Test : MonoBehaviour {
 
         cj.Save(Application.absoluteURL,"myPlayer");
 
-        Debug.Log(cj.character.name);
+        Debug.Log(cj.character.characteristic[0]);
     }
 }
