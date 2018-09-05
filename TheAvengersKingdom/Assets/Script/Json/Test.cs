@@ -18,22 +18,6 @@ public class Test : MonoBehaviour {
 	}
 
     public void test() {
-        CharacterJson cj = new CharacterJson(Application.absoluteURL,"myPlayer");
-        //cj.SetName("陳博威");
-        //cj.SetLevel(5);
-        //cj.Setcharacteristic(5,4,3,2,1);
-        //cj.Setcharacteristic_level(5, 4, 3, 2, 1);
-        //cj.Setskill(5, 4, 3, 2, 1);
-        //cj.Setskill_level(5, 4, 3, 2, 1);
-
-        //cj.Save(Application.absoluteURL,"myPlayer");
-
-
-        TextMeshProUGUI level = GameObject.Find("Character_Level_Text ").GetComponent<TextMeshProUGUI>();
-        level.text = "level:"+cj.character.level.ToString();
-        TextMeshProUGUI hp = GameObject.Find("Character_HP_Text").GetComponent<TextMeshProUGUI>();
-        hp.text = "hp:" + (cj.character.level * 20).ToString();
-        TextMeshProUGUI personality = GameObject.Find("Character_Personality_Text").GetComponent<TextMeshProUGUI>();
-        personality.text = "person:" + cj.character.personality.ToString();
+        
     }
 }

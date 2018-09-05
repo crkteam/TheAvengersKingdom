@@ -12,12 +12,11 @@ public class Data : MonoBehaviour {
 
         StreamReader sr = new StreamReader(System.IO.Path.Combine(Application.absoluteURL,"Data.csv"));
         string line;
-
+		
         while((line = sr.ReadLine())!=null){
             a.Add(line.Split(','));
         }
-
-
-        Debug.Log(a[2][0]);
+		
+        Debug.Log(a[0][0]);
 	}
 }
