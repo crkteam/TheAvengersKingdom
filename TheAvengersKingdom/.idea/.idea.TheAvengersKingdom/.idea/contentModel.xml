@@ -14,6 +14,7 @@
         </e>
         <e p="Script" t="Include">
           <e p="Character" t="Include">
+            <e p="Attribute.cs" t="Include" />
             <e p="init.cs" t="Include" />
           </e>
           <e p="Controller" t="Include">
