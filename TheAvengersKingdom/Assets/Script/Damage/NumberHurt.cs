@@ -8,7 +8,6 @@ using UnityEngine.UI;
 public class NumberHurt : MonoBehaviour
 {
     public GameObject prefab;
-    public Vector3 offset = new Vector3(850, 1300, 0);
     // Use this for initialization
     void Start()
     {
