@@ -13,6 +13,10 @@
           <e p="ChangeFace.cs" t="Include" />
         </e>
         <e p="Script" t="Include">
+          <e p="Controll" t="Include">
+            <e p="SceneControll.cs" t="Include" />
+            <e p="SceneMove.cs" t="Include" />
+          </e>
           <e p="Csv" t="Include">
             <e p="Data.cs" t="Include" />
           </e>

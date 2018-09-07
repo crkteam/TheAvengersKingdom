@@ -59,7 +59,9 @@
     <Compile Include="Assets\Animation\EnemyHurt.cs" />
     <Compile Include="Assets\Resources\ABC.cs" />
     <Compile Include="Assets\Resources\ChangeFace.cs" />
-    <Compile Include="Assets\SceneControll.cs" />
+    <Compile Include="Assets\Script\Controll\SceneControll.cs" />
+    <Compile Include="Assets\Script\Controll\SceneMove.cs" />
+    <Compile Include="Assets\Script\Controll\SceneMove1.cs" />
     <Compile Include="Assets\Script\Csv\Data.cs" />
     <Compile Include="Assets\Script\Damage\Injured.cs" />
     <Compile Include="Assets\Script\Damage\NumberHurt.cs" />
