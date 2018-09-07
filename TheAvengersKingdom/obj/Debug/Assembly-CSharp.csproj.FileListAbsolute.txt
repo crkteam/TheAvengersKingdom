@@ -1,2 +1,0 @@
-/Users/crkjk/Desktop/Git/TheAvengersKingdom/TheAvengersKingdom/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache
-/Users/crkjk/Desktop/Git/TheAvengersKingdom/TheAvengersKingdom/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
