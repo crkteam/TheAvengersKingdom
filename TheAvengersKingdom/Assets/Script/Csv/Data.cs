@@ -17,7 +17,7 @@ public class Data : MonoBehaviour {
             a.Add(line.Split(','));
         }
 
-
-        Debug.Log(a[2][0]);
+        
+        Debug.Log(a[0][0]);
 	}
 }

@@ -13,6 +13,13 @@
           <e p="ChangeFace.cs" t="Include" />
         </e>
         <e p="Script" t="Include">
+<<<<<<< HEAD
+=======
+          <e p="Controll" t="Include">
+            <e p="SceneControll.cs" t="Include" />
+            <e p="SceneMove.cs" t="Include" />
+          </e>
+>>>>>>> TU
           <e p="Csv" t="Include">
             <e p="Data.cs" t="Include" />
           </e>
@@ -22,11 +29,17 @@
           </e>
           <e p="Json" t="Include">
             <e p="absCharacterJson.cs" t="Include" />
+<<<<<<< HEAD
             <e p="attribute.cs" t="Include" />
             <e p="BaseJson.cs" t="Include" />
             <e p="Character.cs" t="Include" />
             <e p="CharacterJson.cs" t="Include" />
             <e p="Search.cs" t="Include" />
+=======
+            <e p="BaseJson.cs" t="Include" />
+            <e p="Character.cs" t="Include" />
+            <e p="CharacterJson.cs" t="Include" />
+>>>>>>> TU
             <e p="Test.cs" t="Include" />
           </e>
           <e p="Menu" t="Include">

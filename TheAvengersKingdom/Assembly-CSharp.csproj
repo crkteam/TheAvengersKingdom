@@ -59,15 +59,27 @@
     <Compile Include="Assets\Animation\EnemyHurt.cs" />
     <Compile Include="Assets\Resources\ABC.cs" />
     <Compile Include="Assets\Resources\ChangeFace.cs" />
+<<<<<<< HEAD
+=======
+    <Compile Include="Assets\Script\Controll\SceneControll.cs" />
+    <Compile Include="Assets\Script\Controll\SceneMove.cs" />
+    <Compile Include="Assets\Script\Controll\SceneMove1.cs" />
+>>>>>>> TU
     <Compile Include="Assets\Script\Csv\Data.cs" />
     <Compile Include="Assets\Script\Damage\Injured.cs" />
     <Compile Include="Assets\Script\Damage\NumberHurt.cs" />
     <Compile Include="Assets\Script\Json\absCharacterJson.cs" />
+<<<<<<< HEAD
     <Compile Include="Assets\Script\Json\attribute.cs" />
     <Compile Include="Assets\Script\Json\BaseJson.cs" />
     <Compile Include="Assets\Script\Json\Character.cs" />
     <Compile Include="Assets\Script\Json\CharacterJson.cs" />
     <Compile Include="Assets\Script\Json\Search.cs" />
+=======
+    <Compile Include="Assets\Script\Json\BaseJson.cs" />
+    <Compile Include="Assets\Script\Json\Character.cs" />
+    <Compile Include="Assets\Script\Json\CharacterJson.cs" />
+>>>>>>> TU
     <Compile Include="Assets\Script\Json\Test.cs" />
     <Compile Include="Assets\Script\Menu\Button_Controll.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
