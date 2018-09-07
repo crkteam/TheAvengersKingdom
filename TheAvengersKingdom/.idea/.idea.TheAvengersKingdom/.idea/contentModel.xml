@@ -16,6 +16,7 @@
           <e p="Character" t="Include">
             <e p="Attribute.cs" t="Include" />
             <e p="init.cs" t="Include" />
+            <e p="MainCharacter.cs" t="Include" />
           </e>
           <e p="Controller" t="Include">
             <e p="SearchTable.cs" t="Include" />

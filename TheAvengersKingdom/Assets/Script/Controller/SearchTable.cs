@@ -7,11 +7,16 @@ using UnityEngine;
 public class SearchTable : MonoBehaviour {
 
 	List<string[]> csv;
+	private string url = Application.absoluteURL;
 
 	public SearchTable()
 	{
+	}
+
+	public void init()
+	{
 		csv = new List<string[]>();
-		StreamReader sr = new StreamReader(System.IO.Path.Combine(Application.absoluteURL, "Data.csv")); 
+		StreamReader sr = new StreamReader(System.IO.Path.Combine(url, "Data.csv")); 
 		string line;
 
 		while ((line = sr.ReadLine()) != null)

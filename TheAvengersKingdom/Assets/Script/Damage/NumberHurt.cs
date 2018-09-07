@@ -21,6 +21,7 @@ public class NumberHurt : MonoBehaviour
         //按A键，模拟Cube受伤
         if (Input.GetMouseButtonDown(0))
         {
+            
             GameObject temp = GameObject.Instantiate(prefab);
             //将游戏对象temp作为Canvas的子物体
             temp.transform.SetParent(GameObject.Find("Main_Background_Image").transform);

@@ -61,6 +61,7 @@
     <Compile Include="Assets\Resources\ChangeFace.cs" />
     <Compile Include="Assets\Script\Character\Attribute.cs" />
     <Compile Include="Assets\Script\Character\init.cs" />
+    <Compile Include="Assets\Script\Character\MainCharacter.cs" />
     <Compile Include="Assets\Script\Controller\SearchTable.cs" />
     <Compile Include="Assets\Script\Csv\Data.cs" />
     <Compile Include="Assets\Script\Damage\Injured.cs" />

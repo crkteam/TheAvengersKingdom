@@ -1,13 +1,16 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using Assets.Scripts.Json;
+using Script.Character;
 using TMPro;
 using UnityEngine;
 
-public class init : MonoBehaviour {
+public class init : MonoBehaviour
+{
 	
-	// Update is called once per frame
-	void Update () {
-		
+	void Start()
+	{
+		MainCharacter mc = new MainCharacter();
+		mc.init();
 	}
 }
