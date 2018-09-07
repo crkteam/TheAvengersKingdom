@@ -23,9 +23,9 @@ public class NumberHurt : MonoBehaviour
         {
             GameObject temp = GameObject.Instantiate(prefab);
             //将游戏对象temp作为Canvas的子物体
-            temp.transform.SetParent(GameObject.Find("Main_Background_Image").transform);
+            temp.transform.SetParent(GameObject.Find("Menu_DamageText").transform);
             //血量文本提示是UI控件，和Cube坐在的坐标系不是同一套，因此我们需要将血量产生点(Cube的位置)从世界坐标系转化成屏幕坐标系。为了上Cube的上方产生，我们可以在y周上给一个适量的偏移
-            temp.transform.position = offset;
+            temp.transform.position = GameObject.Find("Menu_DamageText").transform.position;
 
             //假设当前的血量是Cube受攻击丢的血量
             temp.GetComponent<TextMeshProUGUI>().text = 50.ToString() ;
