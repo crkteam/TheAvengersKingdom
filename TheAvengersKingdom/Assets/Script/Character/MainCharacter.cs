@@ -8,26 +8,22 @@ namespace Script.Character
     {
         public Attribute attribute = new Attribute();
         SearchTable s = new SearchTable();
-        CharacterJson cj = new CharacterJson(Application.absoluteURL, "myPlayer");
-        private TextMeshProUGUI name;
-        private TextMeshProUGUI hp;
-        private TextMeshProUGUI level;
-
+        CharacterJson cj = new CharacterJson(Application.absoluteURL,"myPlayer");
+        TextMeshProUGUI name = GameObject.Find("Character_Name_Text").GetComponent<TextMeshProUGUI>();
+		TextMeshProUGUI hp = GameObject.Find("Character_HP_Text").GetComponent<TextMeshProUGUI>();
+		TextMeshProUGUI level = GameObject.Find("Character_Level_Text").GetComponent<TextMeshProUGUI>();
+        
         public MainCharacter()
         {
-            s.init();
-            attribute.level = cj.character.level;
-            attribute.name = cj.character.name;
-            s.person_assignment(attribute, cj.character.personality);
             
-           
         }
 
         public void init()
         {
-            name = GameObject.Find("Character_Name_Text").GetComponent<TextMeshProUGUI>();
-            hp = GameObject.Find("Character_HP_Text").GetComponent<TextMeshProUGUI>();
-            level = GameObject.Find("Character_Level_Text").GetComponent<TextMeshProUGUI>();
+            s.init();
+            attribute.level = cj.character.level;
+            attribute.name = cj.character.name;
+            s.person_assignment(attribute,cj.character.personality);
             draw();
         }
 

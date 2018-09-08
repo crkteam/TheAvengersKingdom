@@ -4,7 +4,7 @@ using System.IO;
 using Script.Character;
 using UnityEngine;
 
-public class SearchTable  {
+public class SearchTable : MonoBehaviour {
 
 	List<string[]> csv;
 	private string url = Application.absoluteURL;

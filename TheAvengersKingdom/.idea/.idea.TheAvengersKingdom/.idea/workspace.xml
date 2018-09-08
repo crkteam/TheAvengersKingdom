@@ -2,34 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c91f2685-bf4e-4549-aabd-b8d1b6deab09" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Script/Character/GameControll.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/Character/GameControll.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TheAvengersKingdom/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TheAvengersKingdom/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TheAvengersKingdom/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TheAvengersKingdom/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/CharacterAttack.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Character/CharacterAttack.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/CharacterAttack.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Character/CharacterAttack.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Character/MainCharacter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Character/MainCharacter.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/Character/init.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Character/init.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Controller/SearchTable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Controller/SearchTable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Charater.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Damage/Injured.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Damage/Injured.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/Damage/NumberHurt.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Damage/NumberHurt.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CrashedAssetImports.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/EditorInstance.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll.mdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll.mdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/Library/expandedItems" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/12/12b9448867924e7093d7f622035119a3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/12/12b9448867924e7093d7f622035119a3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/8e/8e912be9a818f1346a512bf662ddc4aa" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/8e/8e912be9a818f1346a512bf662ddc4aa" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/8e/8e912be9a818f1346a512bf662ddc4aa.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/8e/8e912be9a818f1346a512bf662ddc4aa.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/af/af152c6ad67a4ed88686987728566eaf" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/af/af152c6ad67a4ed88686987728566eaf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/0d/0d0bf7caa8c64f44a924c4fe4e8c1639" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/0d/0d0bf7caa8c64f44a924c4fe4e8c1639" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/20/2081df682437549daa287cca1e54b8af" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/20/2081df682437549daa287cca1e54b8af.info" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/metadata/c4/c4714c9c336974b27ac1e6fe2e4128f2" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/c4/c4714c9c336974b27ac1e6fe2e4128f2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/metadata/fb/fb592ec9ec354ae47af397e952514e86" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/fb/fb592ec9ec354ae47af397e952514e86" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myPlayer" beforeDir="false" afterPath="$PROJECT_DIR$/myPlayer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityLockfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-20665f8ea0f6a4c8aaef0a9c440e30cf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-6162dc367047446e1991b76600175a4b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-7734d58d32bcf43699e5d189ea9e8ab1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-8d050be74bef141609509fdfcc94a562" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-a729a09ec0f574c87a54b256a0f280c1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-b54fed53eeb574e6ea0e7ed368666b9c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,127 +74,21 @@
         </counts>
       </usages-collector>
     </session>
-    <session id="-281743377">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="cs" value="13" />
-          <entry key="prefab" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="C#" value="13" />
-          <entry key="PLAIN_TEXT" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="cs" value="1033" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="C#" value="1033" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.js.language.service.starts" />
-    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Script/Damage/NumberHurt.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/Character/init.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+            <state relative-caret-position="360">
+              <caret line="29" column="75" selection-start-line="29" selection-start-column="75" selection-end-line="29" selection-end-column="75" />
               <folding>
-                <marker date="1536398599000" expanded="false" signature="6:137" ph="..." />
-                <marker date="1536398599000" expanded="true" signature="179:989" ph="{...}" />
-                <marker date="1536398599000" expanded="true" signature="263:276" ph="{...}" />
-                <marker date="1536398599000" expanded="true" signature="334:987" ph="{...}" />
-                <marker date="1536398599000" expanded="true" signature="404:981" ph="{...}" />
-                <marker date="1536398599000" expanded="true" signature="727:858" ph="/* 血量文本提示是UI控件，和Cube坐在的坐标系不是同一套，因此我们需要将血量产生点(Cube的位置)从世界坐标系转化成屏幕坐标系。为了上Cube的上方产生，我们可以在y周上给一个适量的偏移 ... */" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Script/Damage/TextMeshPro Text 11.prefab">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Script/Character/CharacterAttack.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
-              <folding>
-                <marker date="1536398599000" expanded="false" signature="6:124" ph="..." />
-                <marker date="1536398599000" expanded="true" signature="171:959" ph="{...}" />
-                <marker date="1536398599000" expanded="true" signature="324:447" ph="{...}" />
-                <marker date="1536398599000" expanded="true" signature="505:957" ph="{...}" />
-                <marker date="1536398599000" expanded="true" signature="552:951" ph="{...}" />
-                <marker date="1536398599000" expanded="true" signature="632:939" ph="{...}" />
-                <marker date="1536398599000" expanded="true" signature="843:911" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Animation/EnemyHurt.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-              <folding>
-                <marker date="1536333271000" expanded="false" signature="6:78" ph="..." />
-                <marker date="1536333271000" expanded="true" signature="119:391" ph="{...}" />
-                <marker date="1536333271000" expanded="true" signature="160:217" ph="{...}" />
-                <marker date="1536333271000" expanded="true" signature="275:389" ph="{...}" />
-                <marker date="1536333271000" expanded="true" signature="322:383" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Script/Character/MainCharacter.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-              <folding>
-                <marker date="1536390527000" expanded="false" signature="6:58" ph="..." />
-                <marker date="1536390527000" expanded="true" signature="86:1220" ph="{...}" />
-                <marker date="1536390527000" expanded="true" signature="119:1218" ph="{...}" />
-                <marker date="1536390527000" expanded="true" signature="450:685" ph="{...}" />
-                <marker date="1536390527000" expanded="true" signature="713:1024" ph="{...}" />
-                <marker date="1536390527000" expanded="true" signature="1052:1212" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Script/Controller/SearchTable.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-              <folding>
-                <marker date="1536386098000" expanded="true" signature="6:119" ph="..." />
-                <marker date="1536386098000" expanded="true" signature="147:673" ph="{...}" />
-                <marker date="1536386098000" expanded="true" signature="240:246" ph="{...}" />
-                <marker date="1536386098000" expanded="true" signature="267:477" ph="{...}" />
-                <marker date="1536386098000" expanded="true" signature="437:474" ph="{...}" />
-                <marker date="1536386098000" expanded="true" signature="537:603" ph="{...}" />
-                <marker date="1536386098000" expanded="true" signature="634:671" ph="{...}" />
+                <marker date="1536333344804" expanded="false" signature="6:142" ph="..." />
+                <marker date="1536333344804" expanded="true" signature="177:844" ph="{...}" />
+                <marker date="1536333344804" expanded="true" signature="247:294" ph="{...}" />
+                <marker date="1536333344804" expanded="true" signature="310:842" ph="{...}" />
+                <marker date="1536333344804" expanded="true" signature="348:839" ph="{...}" />
+                <marker date="1536333344804" expanded="true" signature="620:742" ph="/* 血量文本提示是UI控件，和Cube坐在的坐标系不是同一套，因此我们需要将血量产生点(Cube的位置)从世界坐标系转化成屏幕坐标系。为了上Cube的上方产生，我们可以在y周上给一个适量的偏移 ... */" />
               </folding>
             </state>
           </provider>
@@ -199,60 +97,75 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Script/Character/Attribute.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="60">
+              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
               <folding>
-                <marker date="1536338432000" expanded="true" signature="26:230" ph="{...}" />
-                <marker date="1536338432000" expanded="true" signature="55:228" ph="{...}" />
+                <marker date="1536331700992" expanded="true" signature="26:230" ph="{...}" />
+                <marker date="1536331700992" expanded="true" signature="55:228" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Script/Character/init.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/Character/MainCharacter.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="345">
+              <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
               <folding>
-                <marker date="1536397857000" expanded="true" signature="6:164" ph="..." />
-                <marker date="1536397857000" expanded="true" signature="199:815" ph="{...}" />
-                <marker date="1536397857000" expanded="true" signature="244:253" ph="{...}" />
-                <marker date="1536397857000" expanded="true" signature="269:813" ph="{...}" />
-                <marker date="1536397857000" expanded="true" signature="307:810" ph="{...}" />
-                <marker date="1536397857000" expanded="true" signature="579:701" ph="/* 血量文本提示是UI控件，和Cube坐在的坐标系不是同一套，因此我们需要将血量产生点(Cube的位置)从世界坐标系转化成屏幕坐标系。为了上Cube的上方产生，我们可以在y周上给一个适量的偏移 ... */" />
+                <marker date="1536331700993" expanded="false" signature="6:58" ph="..." />
+                <marker date="1536331700993" expanded="true" signature="86:1125" ph="{...}" />
+                <marker date="1536331700993" expanded="true" signature="119:1123" ph="{...}" />
+                <marker date="1536331700993" expanded="true" signature="639:672" ph="{...}" />
+                <marker date="1536331700993" expanded="true" signature="700:929" ph="{...}" />
+                <marker date="1536331700993" expanded="true" signature="957:1117" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/Damage/NumberHurt.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="29" />
+              <folding>
+                <marker date="1536332020592" expanded="true" signature="6:113" ph="..." />
+                <marker date="1536332020592" expanded="true" signature="155:937" ph="{...}" />
+                <marker date="1536332020592" expanded="true" signature="239:252" ph="{...}" />
+                <marker date="1536332020592" expanded="true" signature="310:935" ph="{...}" />
+                <marker date="1536332020592" expanded="true" signature="380:929" ph="{...}" />
+                <marker date="1536332020592" expanded="true" signature="703:834" ph="/* 血量文本提示是UI控件，和Cube坐在的坐标系不是同一套，因此我们需要将血量产生点(Cube的位置)从世界坐标系转化成屏幕坐标系。为了上Cube的上方产生，我们可以在y周上给一个适量的偏移 ... */" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Script/Character/GameControll.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/Damage/Injured.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="150">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
               <folding>
-                <marker date="1536390364000" expanded="true" signature="6:78" ph="..." />
-                <marker date="1536390364000" expanded="true" signature="105:686" ph="{...}" />
-                <marker date="1536390364000" expanded="true" signature="138:684" ph="{...}" />
-                <marker date="1536390364000" expanded="true" signature="319:551" ph="{...}" />
-                <marker date="1536390364000" expanded="true" signature="345:530" ph="{...}" />
-                <marker date="1536390364000" expanded="true" signature="395:482" ph="{...}" />
-                <marker date="1536390364000" expanded="true" signature="581:661" ph="{...}" />
+                <marker date="1536332381754" expanded="true" signature="6:78" ph="..." />
+                <marker date="1536332381754" expanded="true" signature="117:416" ph="{...}" />
+                <marker date="1536332381754" expanded="true" signature="215:260" ph="{...}" />
+                <marker date="1536332381754" expanded="true" signature="318:414" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Script/Damage/Injured.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/Csv/Data.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="30">
+              <caret line="5" column="34" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="34" />
               <folding>
-                <marker date="1536338432000" expanded="false" signature="6:78" ph="..." />
-                <marker date="1536338432000" expanded="true" signature="117:416" ph="{...}" />
-                <marker date="1536338432000" expanded="true" signature="215:260" ph="{...}" />
-                <marker date="1536338432000" expanded="true" signature="318:414" ph="{...}" />
+                <marker date="1536331700996" expanded="false" signature="6:95" ph="..." />
+                <marker date="1536331700996" expanded="true" signature="131:494" ph="{...}" />
+                <marker date="1536331700996" expanded="true" signature="203:492" ph="{...}" />
+                <marker date="1536331700996" expanded="true" signature="411:458" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -264,23 +177,22 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Script/Damage/NumberHurt.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/Character/CharacterAttack.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/Character/init.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/Damage/Injured.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Resources/ChangeFace.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/Character/MainCharacter.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/Character/Attribute.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/Character/GameControll.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/Csv/Data.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Json/Character.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/Controller/SearchTable.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/Json/BaseJson.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C8F17973-B450-497E-B96E-F44B20C582EE/70/fe8fe783/Component.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Json/Test.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Json/BaseJson.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Animation/CharacterAttack.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Json/CharacterJson.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Json/absCharacterJson.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Character/init.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Damage/NumberHurt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Damage/Injured.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Character/Attribute.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Resources/ChangeFace.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Character/MainCharacter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Csv/Data.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Controller/SearchTable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Animation/EnemyHurt.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/Menu/Button_Controll.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -288,13 +200,10 @@
         <option value="$PROJECT_DIR$/Assets/Script/Csv/Data.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Json/Test.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Character/Attribute.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/Damage/Injured.cs" />
-        <option value="$PROJECT_DIR$/Assets/Animation/CharacterAttack.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Controller/SearchTable.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/Character/GameControll.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Character/MainCharacter.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/Character/CharacterAttack.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Damage/NumberHurt.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Damage/Injured.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Character/init.cs" />
       </list>
     </option>
@@ -305,10 +214,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1680" />
-    <option name="height" value="827" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -316,6 +224,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -326,28 +235,7 @@
             <path>
               <item name="Project" type="e068e287:UnityExplorerRootNode" />
               <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
-              <item name="Animation" type="1045f7f1:UnityExplorerNode" />
-            </path>
-            <path>
-              <item name="Project" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
               <item name="Plugins" type="1045f7f1:UnityExplorerNode" />
-            </path>
-            <path>
-              <item name="Project" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
-              <item name="Plugins" type="1045f7f1:UnityExplorerNode" />
-              <item name="Editor" type="1045f7f1:UnityExplorerNode" />
-            </path>
-            <path>
-              <item name="Project" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
-              <item name="Resources" type="1045f7f1:UnityExplorerNode" />
-            </path>
-            <path>
-              <item name="Project" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
-              <item name="Scenes" type="1045f7f1:UnityExplorerNode" />
             </path>
             <path>
               <item name="Project" type="e068e287:UnityExplorerRootNode" />
@@ -370,12 +258,6 @@
               <item name="Project" type="e068e287:UnityExplorerRootNode" />
               <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
               <item name="Script" type="1045f7f1:UnityExplorerNode" />
-              <item name="Csv" type="1045f7f1:UnityExplorerNode" />
-            </path>
-            <path>
-              <item name="Project" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
-              <item name="Script" type="1045f7f1:UnityExplorerNode" />
               <item name="Damage" type="1045f7f1:UnityExplorerNode" />
             </path>
             <path>
@@ -384,24 +266,11 @@
               <item name="Script" type="1045f7f1:UnityExplorerNode" />
               <item name="Json" type="1045f7f1:UnityExplorerNode" />
             </path>
-            <path>
-              <item name="Project" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
-              <item name="Script" type="1045f7f1:UnityExplorerNode" />
-              <item name="Menu" type="1045f7f1:UnityExplorerNode" />
-            </path>
-            <path>
-              <item name="Project" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
-              <item name="Script" type="1045f7f1:UnityExplorerNode" />
-              <item name="Packages" type="1045f7f1:UnityExplorerNode" />
-            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
@@ -456,13 +325,11 @@
       <workItem from="1536224894782" duration="3149000" />
       <workItem from="1536299354352" duration="5156000" />
       <workItem from="1536331925139" duration="1559000" />
-      <workItem from="1536338750539" duration="8036000" />
-      <workItem from="1536386305772" duration="6258000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28994000" />
+    <option name="totallyTimeSpent" value="14700000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -474,10 +341,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="828" extended-state="6" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14949928" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17094018" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -527,58 +394,10 @@
     <entry file="file://$PROJECT_DIR$/Assets/Resources/ChangeFace.cs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/Json/CharacterJson.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Animation/CharacterAttack.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/Json/BaseJson.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C8F17973-B450-497E-B96E-F44B20C582EE/70/fe8fe783/Component.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Script/Csv/Data.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/Json/absCharacterJson.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/Json/Character.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/Json/Test.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="42" />
-          <folding>
-            <marker date="1536338432000" expanded="false" signature="6:218" ph="..." />
-            <marker date="1536338432000" expanded="true" signature="254:495" ph="{...}" />
-            <marker date="1536338432000" expanded="true" signature="307:321" ph="{...}" />
-            <marker date="1536338432000" expanded="true" signature="342:492" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/Menu/Button_Controll.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1536335910000" expanded="true" signature="6:78" ph="..." />
-            <marker date="1536335910000" expanded="true" signature="125:462" ph="{...}" />
-            <marker date="1536335910000" expanded="true" signature="177:227" ph="{...}" />
-            <marker date="1536335910000" expanded="true" signature="256:460" ph="{...}" />
-            <marker date="1536335910000" expanded="true" signature="320:380" ph="{...}" />
-            <marker date="1536335910000" expanded="true" signature="393:454" ph="{...}" />
-          </folding>
+        <state relative-caret-position="405">
+          <caret line="30" column="33" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -586,28 +405,59 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-          <folding>
-            <marker date="1536333271000" expanded="false" signature="6:78" ph="..." />
-            <marker date="1536333271000" expanded="true" signature="119:391" ph="{...}" />
-            <marker date="1536333271000" expanded="true" signature="160:217" ph="{...}" />
-            <marker date="1536333271000" expanded="true" signature="275:389" ph="{...}" />
-            <marker date="1536333271000" expanded="true" signature="322:383" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Json/CharacterJson.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Json/absCharacterJson.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Json/BaseJson.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Json/Character.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/Controller/SearchTable.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        <state relative-caret-position="449">
+          <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Json/Test.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C8F17973-B450-497E-B96E-F44B20C582EE/70/fe8fe783/Component.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Csv/Data.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="34" />
           <folding>
-            <marker date="1536386098000" expanded="true" signature="6:119" ph="..." />
-            <marker date="1536386098000" expanded="true" signature="147:673" ph="{...}" />
-            <marker date="1536386098000" expanded="true" signature="240:246" ph="{...}" />
-            <marker date="1536386098000" expanded="true" signature="267:477" ph="{...}" />
-            <marker date="1536386098000" expanded="true" signature="437:474" ph="{...}" />
-            <marker date="1536386098000" expanded="true" signature="537:603" ph="{...}" />
-            <marker date="1536386098000" expanded="true" signature="634:671" ph="{...}" />
+            <marker date="1536331700996" expanded="false" signature="6:95" ph="..." />
+            <marker date="1536331700996" expanded="true" signature="131:494" ph="{...}" />
+            <marker date="1536331700996" expanded="true" signature="203:492" ph="{...}" />
+            <marker date="1536331700996" expanded="true" signature="411:458" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -617,100 +467,69 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/Character/Attribute.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="60">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
           <folding>
-            <marker date="1536338432000" expanded="true" signature="26:230" ph="{...}" />
-            <marker date="1536338432000" expanded="true" signature="55:228" ph="{...}" />
+            <marker date="1536331700992" expanded="true" signature="26:230" ph="{...}" />
+            <marker date="1536331700992" expanded="true" signature="55:228" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/Character/MainCharacter.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        <state relative-caret-position="345">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
           <folding>
-            <marker date="1536390527000" expanded="false" signature="6:58" ph="..." />
-            <marker date="1536390527000" expanded="true" signature="86:1220" ph="{...}" />
-            <marker date="1536390527000" expanded="true" signature="119:1218" ph="{...}" />
-            <marker date="1536390527000" expanded="true" signature="450:685" ph="{...}" />
-            <marker date="1536390527000" expanded="true" signature="713:1024" ph="{...}" />
-            <marker date="1536390527000" expanded="true" signature="1052:1212" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/Character/CharacterAttack.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
-          <folding>
-            <marker date="1536398599000" expanded="false" signature="6:124" ph="..." />
-            <marker date="1536398599000" expanded="true" signature="171:959" ph="{...}" />
-            <marker date="1536398599000" expanded="true" signature="324:447" ph="{...}" />
-            <marker date="1536398599000" expanded="true" signature="505:957" ph="{...}" />
-            <marker date="1536398599000" expanded="true" signature="552:951" ph="{...}" />
-            <marker date="1536398599000" expanded="true" signature="632:939" ph="{...}" />
-            <marker date="1536398599000" expanded="true" signature="843:911" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/Damage/Injured.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <marker date="1536338432000" expanded="false" signature="6:78" ph="..." />
-            <marker date="1536338432000" expanded="true" signature="117:416" ph="{...}" />
-            <marker date="1536338432000" expanded="true" signature="215:260" ph="{...}" />
-            <marker date="1536338432000" expanded="true" signature="318:414" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/Damage/NumberHurt.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
-          <folding>
-            <marker date="1536398599000" expanded="false" signature="6:137" ph="..." />
-            <marker date="1536398599000" expanded="true" signature="179:989" ph="{...}" />
-            <marker date="1536398599000" expanded="true" signature="263:276" ph="{...}" />
-            <marker date="1536398599000" expanded="true" signature="334:987" ph="{...}" />
-            <marker date="1536398599000" expanded="true" signature="404:981" ph="{...}" />
-            <marker date="1536398599000" expanded="true" signature="727:858" ph="/* 血量文本提示是UI控件，和Cube坐在的坐标系不是同一套，因此我们需要将血量产生点(Cube的位置)从世界坐标系转化成屏幕坐标系。为了上Cube的上方产生，我们可以在y周上给一个适量的偏移 ... */" />
+            <marker date="1536331700993" expanded="false" signature="6:58" ph="..." />
+            <marker date="1536331700993" expanded="true" signature="86:1125" ph="{...}" />
+            <marker date="1536331700993" expanded="true" signature="119:1123" ph="{...}" />
+            <marker date="1536331700993" expanded="true" signature="639:672" ph="{...}" />
+            <marker date="1536331700993" expanded="true" signature="700:929" ph="{...}" />
+            <marker date="1536331700993" expanded="true" signature="957:1117" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/Character/init.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="360">
+          <caret line="29" column="75" selection-start-line="29" selection-start-column="75" selection-end-line="29" selection-end-column="75" />
           <folding>
-            <marker date="1536397857000" expanded="true" signature="6:164" ph="..." />
-            <marker date="1536397857000" expanded="true" signature="199:815" ph="{...}" />
-            <marker date="1536397857000" expanded="true" signature="244:253" ph="{...}" />
-            <marker date="1536397857000" expanded="true" signature="269:813" ph="{...}" />
-            <marker date="1536397857000" expanded="true" signature="307:810" ph="{...}" />
-            <marker date="1536397857000" expanded="true" signature="579:701" ph="/* 血量文本提示是UI控件，和Cube坐在的坐标系不是同一套，因此我们需要将血量产生点(Cube的位置)从世界坐标系转化成屏幕坐标系。为了上Cube的上方产生，我们可以在y周上给一个适量的偏移 ... */" />
+            <marker date="1536333344804" expanded="false" signature="6:142" ph="..." />
+            <marker date="1536333344804" expanded="true" signature="177:844" ph="{...}" />
+            <marker date="1536333344804" expanded="true" signature="247:294" ph="{...}" />
+            <marker date="1536333344804" expanded="true" signature="310:842" ph="{...}" />
+            <marker date="1536333344804" expanded="true" signature="348:839" ph="{...}" />
+            <marker date="1536333344804" expanded="true" signature="620:742" ph="/* 血量文本提示是UI控件，和Cube坐在的坐标系不是同一套，因此我们需要将血量产生点(Cube的位置)从世界坐标系转化成屏幕坐标系。为了上Cube的上方产生，我们可以在y周上给一个适量的偏移 ... */" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/Character/GameControll.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Damage/NumberHurt.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="135">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="29" />
           <folding>
-            <marker date="1536390364000" expanded="true" signature="6:78" ph="..." />
-            <marker date="1536390364000" expanded="true" signature="105:686" ph="{...}" />
-            <marker date="1536390364000" expanded="true" signature="138:684" ph="{...}" />
-            <marker date="1536390364000" expanded="true" signature="319:551" ph="{...}" />
-            <marker date="1536390364000" expanded="true" signature="345:530" ph="{...}" />
-            <marker date="1536390364000" expanded="true" signature="395:482" ph="{...}" />
-            <marker date="1536390364000" expanded="true" signature="581:661" ph="{...}" />
+            <marker date="1536332020592" expanded="true" signature="6:113" ph="..." />
+            <marker date="1536332020592" expanded="true" signature="155:937" ph="{...}" />
+            <marker date="1536332020592" expanded="true" signature="239:252" ph="{...}" />
+            <marker date="1536332020592" expanded="true" signature="310:935" ph="{...}" />
+            <marker date="1536332020592" expanded="true" signature="380:929" ph="{...}" />
+            <marker date="1536332020592" expanded="true" signature="703:834" ph="/* 血量文本提示是UI控件，和Cube坐在的坐标系不是同一套，因此我们需要将血量产生点(Cube的位置)从世界坐标系转化成屏幕坐标系。为了上Cube的上方产生，我们可以在y周上给一个适量的偏移 ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Damage/Injured.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <marker date="1536332381754" expanded="true" signature="6:78" ph="..." />
+            <marker date="1536332381754" expanded="true" signature="117:416" ph="{...}" />
+            <marker date="1536332381754" expanded="true" signature="215:260" ph="{...}" />
+            <marker date="1536332381754" expanded="true" signature="318:414" ph="{...}" />
           </folding>
         </state>
       </provider>
