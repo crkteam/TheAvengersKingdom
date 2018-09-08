@@ -1,39 +1,29 @@
-﻿using Assets.Scripts.Json;
+﻿using System;
+using Assets.Scripts.Json;
 using System.Collections;
 using System.Collections.Generic;
 using Newtonsoft.Json;
 using UnityEngine;
 using TMPro;
 using System.IO;
+using Attribute = Script.Character.Attribute;
 
 public class Test : MonoBehaviour {
-
+	
+	
 	// Use this for initialization
 	void Start () {
-        test();
-	}
-	
-	// Update is called once per frame
-	void Update () {
+		test();
 	}
 
-    public void test() {
-        CharacterJson cj = new CharacterJson(Application.absoluteURL,"myPlayer");
-        //cj.SetName("陳博威");
-        //cj.SetLevel(5);
-        //cj.Setcharacteristic(5,4,3,2,1);
-        //cj.Setcharacteristic_level(5, 4, 3, 2, 1);
-        //cj.Setskill(5, 4, 3, 2, 1);
-        //cj.Setskill_level(5, 4, 3, 2, 1);
+	public void test()
+	{
+		SearchTable s = new SearchTable();
+		Attribute a = new Attribute();
+		s.person_assignment(a, 2);
+		
+		Debug.Log(a.hp);
+		Debug.Log(a.attack);
+	}
 
-        //cj.Save(Application.absoluteURL,"myPlayer");
-
-
-        TextMeshProUGUI level = GameObject.Find("Character_Level_Text ").GetComponent<TextMeshProUGUI>();
-        level.text = "level:"+cj.character.level.ToString();
-        TextMeshProUGUI hp = GameObject.Find("Character_HP_Text").GetComponent<TextMeshProUGUI>();
-        hp.text = "hp:" + (cj.character.level * 20).ToString();
-        TextMeshProUGUI personality = GameObject.Find("Character_Personality_Text").GetComponent<TextMeshProUGUI>();
-        personality.text = "person:" + cj.character.personality.ToString();
-    }
 }
