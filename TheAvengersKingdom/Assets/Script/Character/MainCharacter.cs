@@ -22,17 +22,13 @@ namespace Script.Character
             s.person_assignment(attribute, cj.character.personality);
         }
 
-        public void init()
-        {
-           
-            draw();
-        }
 
         public void draw()
         {
-             name = GameObject.Find("Character_Name_Text").GetComponent<Text>();
-                        hp = GameObject.Find("Character_Level_Text").GetComponent<Text>();
-                        level = GameObject.Find("Character_HP_Text").GetComponent<Text>();
+            name = GameObject.Find("Character_Name_Text").GetComponent<Text>();
+            hp = GameObject.Find("Character_Level_Text").GetComponent<Text>();
+            level = GameObject.Find("Character_HP_Text").GetComponent<Text>();
+
             name.text = attribute.name;
             hp.text = attribute.hp.ToString();
             level.text = attribute.level.ToString();

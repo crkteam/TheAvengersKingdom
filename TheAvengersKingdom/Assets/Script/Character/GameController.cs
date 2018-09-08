@@ -2,11 +2,13 @@ using UnityEngine;
 
 namespace Script.Character
 {
-    public class GameController
+    public class GameController 
     {
         public static GameController instance;
         public MainCharacter mc=new MainCharacter();
+
         [HideInInspector]
+      
         public static GameController Instance
         {
             get
@@ -14,6 +16,7 @@ namespace Script.Character
                 if (instance==null)
                 {
                     instance=new GameController();
+                   
                 }
 
                 return instance;
@@ -22,13 +25,7 @@ namespace Script.Character
            
         }
 
-        void Start()
-        {
-            mc.init();
-        }
-        
-        
 
-
+       
     }
 }
