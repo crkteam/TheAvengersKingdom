@@ -9,7 +9,6 @@ public class Injured : MonoBehaviour {
     // Use this for initialization
     void Start()
     {
-        // 物件消失時間!!
         Destroy(gameObject, 1f);
     }
 

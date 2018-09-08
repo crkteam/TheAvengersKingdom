@@ -3,8 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - text
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -14,8 +13,8 @@ TagManager:
   - UI
   - 
   - 
-  - passCorss
-  - background
+  - 
+  - 
   - 
   - 
   - 
@@ -42,9 +41,3 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: cross
-    uniqueID: 2061584957
-    locked: 0
-  - name: background
-    uniqueID: 1627037371
-    locked: 1
