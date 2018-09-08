@@ -1105,6 +1105,8 @@ GameObject:
   - component: {fileID: 835452565}
   - component: {fileID: 835452567}
   - component: {fileID: 835452566}
+  - component: {fileID: 835452569}
+  - component: {fileID: 835452568}
   m_Layer: 5
   m_Name: Main_Background_Image
   m_TagString: Untagged
@@ -1163,6 +1165,32 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 835452564}
+--- !u!114 &835452568
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 835452564}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e912be9a818f1346a512bf662ddc4aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 1784244881}
+  s: {fileID: 77674086}
+  EnemyHp: 200
+--- !u!114 &835452569
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 835452564}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 446f02d2c6275f2479aa292e7eb51ff8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator2: {fileID: 1638443484}
 --- !u!1 &985066925
 GameObject:
   m_ObjectHideFlags: 0
@@ -1796,7 +1824,6 @@ GameObject:
   - component: {fileID: 1638443481}
   - component: {fileID: 1638443483}
   - component: {fileID: 1638443482}
-  - component: {fileID: 1638443485}
   - component: {fileID: 1638443484}
   m_Layer: 5
   m_Name: Main_Enemy_Knight
@@ -1836,7 +1863,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
+  m_RaycastTarget: 0
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -1874,17 +1901,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &1638443485
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1638443480}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 446f02d2c6275f2479aa292e7eb51ff8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1783388081
 GameObject:
   m_ObjectHideFlags: 0
@@ -2017,7 +2033,6 @@ GameObject:
   - component: {fileID: 1784244878}
   - component: {fileID: 1784244880}
   - component: {fileID: 1784244879}
-  - component: {fileID: 1784244882}
   - component: {fileID: 1784244881}
   m_Layer: 5
   m_Name: Main_MainCharacter_Knight
@@ -2057,7 +2072,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
+  m_RaycastTarget: 0
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -2095,20 +2110,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &1784244882
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1784244877}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8e912be9a818f1346a512bf662ddc4aa, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  animator: {fileID: 0}
-  s: {fileID: 77674086}
-  EnemyHp: 200
 --- !u!1 &1831664839
 GameObject:
   m_ObjectHideFlags: 0
