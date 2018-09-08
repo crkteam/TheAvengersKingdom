@@ -2108,7 +2108,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animator: {fileID: 0}
   s: {fileID: 77674086}
-  EnemyHp: 300
+  EnemyHp: 200
 --- !u!1 &1831664839
 GameObject:
   m_ObjectHideFlags: 0
