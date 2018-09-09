@@ -1,20 +1,24 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
 
-public class EnemyHurt : MonoBehaviour {
-    Animator animator;
+public class EnemyHurt : MonoBehaviour,IPointerDownHandler {
+    public Animator animator2;
+
+    public void OnPointerDown(PointerEventData eventData)
+    {
+        animator2.SetTrigger("Hurt");
+    }
+
     void Start()
     {
-        animator = GetComponent<Animator>();
+        
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetMouseButtonDown(0))
-        {
-            animator.SetTrigger("Hurt");
-        }
+      
     }
 }

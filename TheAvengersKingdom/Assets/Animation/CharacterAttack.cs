@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using Script.Character;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.EventSystems;
 
-public class CharacterAttack : MonoBehaviour {
+public class CharacterAttack : MonoBehaviour,IPointerDownHandler {
 
     public Animator animator;
     public Slider s;
@@ -17,35 +18,32 @@ public class CharacterAttack : MonoBehaviour {
     {
         NowEnemyHp = EnemyHp;
         s.value = s.maxValue;
-        animator = GetComponent<Animator>();
-
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetMouseButtonDown(0))
-        {
+        
+    }
 
+    public void OnPointerDown(PointerEventData eventData)
+    {
             animator.SetTrigger("Hit");
-
 
             if (num >= 0)
             {
-                NowEnemyHp-= GameController.Instance.mc.attribute.attack;
+                NowEnemyHp -= GameController.Instance.mc.attribute.attack;
                 s.value = NowEnemyHp / EnemyHp * 100;
-                Debug.Log (NowEnemyHp);
+                Debug.Log(NowEnemyHp);
                 if (num <= 0)
                 {
                     num = 100f;
                 }
             }
-
             else
             {
                 s.value = 0;
             }
 
-        }
     }
 }
