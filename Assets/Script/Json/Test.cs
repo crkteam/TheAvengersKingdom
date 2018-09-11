@@ -4,7 +4,6 @@ using System.Collections;
 using System.Collections.Generic;
 using Newtonsoft.Json;
 using UnityEngine;
-using TMPro;
 using System.IO;
 using Attribute = Script.Character.Attribute;
 

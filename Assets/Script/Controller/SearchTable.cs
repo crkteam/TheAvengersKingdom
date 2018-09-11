@@ -4,16 +4,15 @@ using System.IO;
 using Script.Character;
 using UnityEngine;
 
-public class SearchTable  {
+public class SearchTable{
 
 	List<string[]> csv;
-	private string url = Application.absoluteURL;
 
 	public SearchTable()
 	{
 	}
 
-	public void init()
+	public void init(string url)
 	{
 		csv = new List<string[]>();
 		StreamReader sr = new StreamReader(System.IO.Path.Combine(url, "Data.csv")); 

@@ -31,7 +31,7 @@ public class CharacterAttack : MonoBehaviour,IPointerDownHandler {
             animator.SetTrigger("Hit");
             if (num >= 0)
             {
-                NowEnemyHp -= GameController.Instance.mc.attribute.attack;
+//                NowEnemyHp -= GameController.Instance.mc.attribute.attack;
                 s.value = NowEnemyHp / EnemyHp * 100;
                 Debug.Log(NowEnemyHp);
                 if (num <= 0)

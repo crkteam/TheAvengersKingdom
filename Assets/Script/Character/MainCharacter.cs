@@ -1,5 +1,4 @@
 using Assets.Scripts.Json;
-using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -9,14 +8,15 @@ namespace Script.Character
     {
         public Attribute attribute = new Attribute();
         SearchTable s = new SearchTable();
-        CharacterJson cj = new CharacterJson(Application.absoluteURL, "myPlayer");
+        CharacterJson cj;
         private Text name;
         private Text hp;
         private Text level;
 
-        public MainCharacter()
+        public MainCharacter(string url)
         {
-            s.init();
+            cj = new CharacterJson(url, "myPlayer");
+            s.init(url);
             attribute.level = cj.character.level;
             attribute.name = cj.character.name;
             s.person_assignment(attribute, cj.character.personality);
