@@ -64,6 +64,7 @@ public class CharacterAttack : MonoBehaviour,IPointerDownHandler {
         //将游戏对象temp作为Canvas的子物体
         temp.transform.SetParent(GameObject.Find("Monster_Position").transform);
         temp.transform.position = GameObject.Find("Monster_Position").transform.position;
+      
         NowEnemyHp = EnemyHp;
         s.value = 100f;
     }
