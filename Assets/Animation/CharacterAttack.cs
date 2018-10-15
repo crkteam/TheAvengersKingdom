@@ -12,8 +12,9 @@ public class CharacterAttack : MonoBehaviour,IPointerDownHandler {
     float num = 100f;
     public float EnemyHp;
     float NowEnemyHp;
-
-
+    private MainCharacter mc;
+    public GameObject prefab;
+    public GameObject Hp_slider;
     void Start()
     {
         NowEnemyHp = EnemyHp;
@@ -28,15 +29,23 @@ public class CharacterAttack : MonoBehaviour,IPointerDownHandler {
     }
     public void OnPointerDown(PointerEventData eventData)
     {
-            animator.SetTrigger("Hit");
-            if (num >= 0)
+        mc = new MainCharacter(Application.absoluteURL);
+        animator.SetTrigger("Hit");
+            if (s.value >= 0)
             {
-//                NowEnemyHp -= GameController.Instance.mc.attribute.attack;
+
+                NowEnemyHp -= mc.attribute.attack;
                 s.value = NowEnemyHp / EnemyHp * 100;
                 Debug.Log(NowEnemyHp);
-                if (num <= 0)
+                if (s.value <= 0)
                 {
-                    num = 100f;
+                  
+                    Hp_slider.SetActive(false);
+                    NowEnemyHp = EnemyHp;
+                 Destroy(GameObject.Find("Monster_Position").transform.GetChild(0).gameObject);   
+                 Invoke("CreatMonster",1f);
+                    
+                 
                 }
             }
 
@@ -45,5 +54,17 @@ public class CharacterAttack : MonoBehaviour,IPointerDownHandler {
                 s.value = 0;
             }
 
+    }
+
+    void CreatMonster()
+    {
+        
+        Hp_slider.SetActive(true);
+        GameObject temp = GameObject.Instantiate(prefab);
+        //将游戏对象temp作为Canvas的子物体
+        temp.transform.SetParent(GameObject.Find("Monster_Position").transform);
+        temp.transform.position = GameObject.Find("Monster_Position").transform.position;
+        NowEnemyHp = EnemyHp;
+        s.value = 100f;
     }
 }
